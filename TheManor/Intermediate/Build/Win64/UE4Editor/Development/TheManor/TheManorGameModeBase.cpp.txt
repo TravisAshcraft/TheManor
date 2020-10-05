@@ -1,0 +1,7 @@
+D:\UE Repos\TheManor\TheManor\Intermediate\Build\Win64\UE4Editor\Development\TheManor\Definitions.TheManor.h
+D:\UE Repos\TheManor\TheManor\Source\TheManor\TheManorGameModeBase.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\UE Repos\TheManor\TheManor\Intermediate\Build\Win64\UE4Editor\Inc\TheManor\TheManorGameModeBase.generated.h

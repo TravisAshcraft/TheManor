@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TheManor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE Repos\TheManor\TheManor\Intermediate\Build\Win64\TheManorEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UE Repos\TheManor\TheManor\Intermediate\Build\Win64\UE4Editor\Development\TheManor\TheManor.cpp.obj"
+"D:\UE Repos\TheManor\TheManor\Intermediate\Build\Win64\UE4Editor\Development\TheManor\TheManorGameModeBase.cpp.obj"
+"D:\UE Repos\TheManor\TheManor\Intermediate\Build\Win64\UE4Editor\Development\TheManor\TheManor.init.gen.cpp.obj"
+"D:\UE Repos\TheManor\TheManor\Intermediate\Build\Win64\UE4Editor\Development\TheManor\TheManorGameModeBase.gen.cpp.obj"
+"D:\UE Repos\TheManor\TheManor\Intermediate\Build\Win64\UE4Editor\Development\TheManor\Default.rc2.res"
+/OUT:"D:\UE Repos\TheManor\TheManor\Intermediate\Build\Win64\UE4Editor\Development\TheManor\UE4Editor-TheManor.lib"
+/INCLUDE:IMPLEMENT_MODULE_TheManor

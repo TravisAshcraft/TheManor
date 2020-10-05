@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TheManor",
+			"Path": "D:\\UE Repos\\TheManor\\TheManor\\Source\\TheManor.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TheManorEditor",
+			"Path": "D:\\UE Repos\\TheManor\\TheManor\\Source\\TheManorEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
