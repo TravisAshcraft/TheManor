@@ -1,0 +1,13 @@
+﻿  Cleaning TheManorEditor and UnrealHeaderTool binaries...
+  Using 'git status' to determine working set for adaptive non-unity build (D:\UE Repos\TheManor).
+  Creating makefile for TheManorEditor (no existing makefile)
+  Parsing headers for TheManorEditor
+    Running UnrealHeaderTool "D:\UE Repos\TheManor\TheManor\TheManor.uproject" "D:\UE Repos\TheManor\TheManor\Intermediate\Build\Win64\TheManorEditor\Development\TheManorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\sherr\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for TheManorEditor in 28.4268015 seconds
+  Building TheManorEditor...
+  Using Visual Studio 2019 14.27.29111 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Distributing 11 actions to XGE
+  --------------------Project: Default-------------------------------------------
+  Default.rc2 (0:00.37 at +0:00)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(54,5): warning MSB5021: Terminating the task executable "cmd" and its child processes because the build was canceled.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(54,5): error MSB4181: The "Exec" task returned false but did not log an error.

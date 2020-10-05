@@ -15,7 +15,9 @@ AWorldPosition::AWorldPosition()
 void AWorldPosition::BeginPlay()
 {
 	Super::BeginPlay();
-	
+	UE_LOG(LogTemp, Warning, TEXT("This is a Warning!"));
+	UE_LOG(LogTemp, Error, TEXT("System overload cannot compute!!"));
+	UE_LOG(LogTem, Display, TEXT("All will be ok now!"));
 }
 
 // Called every frame
